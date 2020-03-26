@@ -1,0 +1,24 @@
+[{
+    "command" : "closeTab",
+    "keys" :[
+        "ctrl+w"
+    ]
+},
+{
+    "command" : "newTab",
+    "keys" :[
+        "ctrl+t"
+    ]
+},
+{
+    "command" : "copy",
+    "keys" :[
+        "ctrl+c"
+    ]
+},
+{
+    "command" : "paste",
+    "keys" : [
+        "ctrl+v"
+    ]
+}]
