@@ -1,6 +1,8 @@
 # windows-terminal-vscode
 VS Code theme for Windows Terminal
 
+![Image description](https://github.com/cristipufu/windows-terminal-vscode-theme/blob/master/windows-terminal-vs-code-theme.JPG)
+
 # How to install
 
 Start Windows Terminal and click on the down arrow symbol from menu bar. This will open a drop down menu from which select the Settings option. In the `profile.json` settings file for Windows Terminal, find the `schemes` section and paste the contents of `vs-code.json`:
@@ -41,8 +43,6 @@ Once the color scheme has been defined, find the profiles section and add a `col
 
     }
 ```
-
-![Image description](https://github.com/cristipufu/windows-terminal-vscode-theme/blob/master/windows-terminal-vs-code-theme.JPG)
 
 ## Bonus
 
